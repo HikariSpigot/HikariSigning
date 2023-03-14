@@ -1,0 +1,10 @@
+name: HikarisSigning
+description: Verifiziert Items
+author: HikariSpigot
+version: '1.0'
+main: lithium.hikarisigning.HikariSigning
+api-version: 1.19
+load: STARTUP
+commands:
+  sign:
+  unsign:
